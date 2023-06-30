@@ -1,0 +1,11 @@
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\obj\Debug\SignoAscendencia.csproj.AssemblyReference.cache
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\obj\Debug\SignoAscendencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\obj\Debug\SignoAscendenciaLuaApp.FormSignoAscendenciaLua.resources
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\obj\Debug\SignoAscendencia.Properties.Resources.resources
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\obj\Debug\SignoAscendencia.csproj.GenerateResource.cache
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\obj\Debug\SignoAscendencia.csproj.CoreCompileInputs.cache
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\bin\Debug\SignoAscendencia.exe.config
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\bin\Debug\SignoAscendencia.exe
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\bin\Debug\SignoAscendencia.pdb
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\obj\Debug\SignoAscendencia.exe
+C:\Users\joan.ldbarbosa\source\repos\SignoAscendencia\SignoAscendencia\obj\Debug\SignoAscendencia.pdb
